@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Watson\Scripts\Connection\WSConnector.cs">
+    <Files>
+      <File FileName="Assets\Watson\Examples\ServiceExamples\Scripts\ExampleStreaming.cs" Line="1" Column="1" />
+      <File FileName="Assets\PictureBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\GoogleService.cs" Line="1" Column="1" />
+      <File FileName="Assets\PictureFactory.cs" Line="1" Column="1" />
+      <File FileName="Assets\DeployStageOnce.cs" Line="1" Column="1" />
+      <File FileName="Assets\Watson\Scripts\Debug\DebugReactor.cs" Line="60" Column="1" />
+      <File FileName="Assets\Watson\Scripts\Connection\WSConnector.cs" Line="188" Column="6" />
+      <File FileName="Assets\Watson\Scripts\Services\SpeechToText\v1\SpeechToText.cs" Line="717" Column="62" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
